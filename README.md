@@ -536,7 +536,7 @@ Utilizo la formula de resistenica total en circuitos paralelos, una vez sustitui
 
 VIDEO
 
-
+https://share.vidyard.com/watch/HyMC6cmdA1x2hqzGVzaev2?
 
 ---------------------------------------------------------------------------------------------------------------------------------
 CONCLUSIONES
