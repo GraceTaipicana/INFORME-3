@@ -16,7 +16,9 @@ Analizar y desarrollar los ejercicios propuestos con los conceptos  de fundament
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 OBJETIVOS ESPECÍFICOS
+Analizar los circuitos en serie y en paralelo, sus cálculos, características y funciones.Identificar las leyes de Kirchhoff, aplicar sus formulas y casos en los circuitos dados .
 
+Aplicar los conocimientos adquiridos de la ley de Ohm en circuitos en paralelo y en serie para la resolución de ejercicios.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MARCO TEÓRICO (RESUMEN)
@@ -539,7 +541,7 @@ VIDEO
 ---------------------------------------------------------------------------------------------------------------------------------
 CONCLUSIONES
 
-Se establece que gracias al análisis y desarrollo de los temas estudiados podemos denotar la importancia de esta notación, métodos, reconocer la ley de ohm poniendo en práctica los conocimientos y la teoría para la resolución de problemas y los conceptos relacionados a la electrónica fundamental tambien la aplicacion de la ley de ohm en combinación de la potencia, la conversión de unidades por horas, minutos y segundos y la identificación del porcentaje de eficacia de la potencia. 
+Se establece que gracias al análisis y desarrollo de los temas estudiados podemos denotar la importancia de estos métodos, reconocer la ley de ohm poniendo en práctica los conocimientos y la teoría para la resolución de problemas y los conceptos relacionados a la electrónica fundamental tambien la aplicacion de las leyes de kirchhoff en los circuitos dados en los problemas , la conversión de unidades por horas, minutos y segundos y la identificación del porcentaje de eficacia de la potencia. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------- 
 BIBLIOGRAFÍA 
